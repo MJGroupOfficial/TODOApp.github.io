@@ -112,3 +112,8 @@
           border: 1px solid #ddd !important;
         }
       }
+        #searchForm{
+        display: flex;
+        gap:7px;
+        
+     }
